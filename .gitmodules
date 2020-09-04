@@ -1,0 +1,9 @@
+[submodule "src/aliencontrol"]
+	path = src/aliencontrol
+	url = https://github.com/acschaefer/aliencontrol
+[submodule "unhuman/wrist"]
+	path = unhuman/wrist
+	url = git@github.com:unhuman-io/wrist
+[submodule "src/unhuman_ros"]
+	path = src/unhuman_ros
+	url = git@github.com:unhuman-io/ros.git
