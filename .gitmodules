@@ -7,3 +7,6 @@
 [submodule "src/unhuman_ros"]
 	path = src/unhuman_ros
 	url = git@github.com:unhuman-io/ros.git
+[submodule "src/urdf_tmp"]
+	path = src/urdf_tmp
+	url = git@github.com:unhuman-io/urdf_tmp.git
